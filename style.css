@@ -1,0 +1,33 @@
+*{
+   color : rebeccapurple;
+
+}
+h1{
+    color: brown;
+}
+.special{
+    color: orange;
+}
+#ink{
+    color: black;
+}
+.food:visited{
+    color: black;
+}
+.food{
+    color: pink;
+}
+.food:hover{
+    color: red;
+}
+.food:active{
+    color: blue;
+}
+
+
+body{
+    background-color: bisque;
+    background-image: url('../images/mahend.jpg');
+    background-size: cover;
+    background-position: 0 0;
+}
